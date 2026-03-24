@@ -1,4 +1,4 @@
-Perfecto, podemos agregar ese aviso sobre que los archivos podrían estar desactualizados y que conviene usar los links oficiales del creador. Te dejo el README actualizado:
+
 
 ---
 
@@ -26,12 +26,6 @@ En Discord encontrarás siempre:
 * 🛠️ Soporte y ayuda
 
 👉 [Entra al Discord](https://discord.gg/b4bEeWZ4zA)
-
-## ⚠️ Aviso
-
-* Usa todo bajo tu responsabilidad
-* Para máxima seguridad, **usa los links oficiales del repositorio del creador**
-* No nos hacemos responsables de mal uso
 
 
 
