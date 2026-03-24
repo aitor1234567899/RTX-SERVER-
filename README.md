@@ -19,7 +19,7 @@ Aquí encuentras los archivos directos, organizados y accesibles.
 
 ⚠️ IMPORTANTE
 Los archivos están aquí, pero podrían estar **desactualizados**.
-En Discord encontrarás siempre:
+En Discord encontrarás siempre ACTALIZADOS :
 ---
 * 🔗 Links oficiales de cada Mod Menu / script
 * ✅ Descargas originales y seguras
