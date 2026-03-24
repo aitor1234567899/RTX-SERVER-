@@ -1,34 +1,31 @@
-# 💀 BIENVENIDO AL REPOSITORIO RTX 💻
+💀 BIENVENIDO AL REPOSITORIO RTX 💻
 
 Este es tu lugar para ⚡ Mod Menus y Scripts ⚡ de GTA V, listos para usar.
 Aquí encuentras los archivos directos, organizados y accesibles.
 
-## 🧩 Contenido
+🧩 Contenido
+📁 Mod Menus listos
+⚙️ Scripts funcionales
+🚀 Archivos preparados
+🔓 Acceso rápido y seguro
+💬 Discord = Fuente Oficial
 
-- 📁 Mod Menus listos  
-- ⚙️ Scripts funcionales  
-- 🚀 Archivos preparados  
-- 🔓 Acceso rápido y seguro  
+⚠️ IMPORTANTE
+Los archivos están aquí, pero podrían estar desactualizados.
+En Discord encontrarás siempre:
 
-## 💬 Discord = Fuente Oficial
+🔗 Links oficiales de cada Mod Menu / script
+✅ Descargas originales y seguras
+🆕 Últimas versiones actualizadas
+🛠️ Soporte y ayuda
 
-⚠️ IMPORTANTE  
-Los archivos están aquí, pero en Discord encontrarás:
+👉 Entra al Discord
 
-- 🔗 Links oficiales de cada Mod Menu / script  
-- ✅ Descargas originales y seguras  
-- 🆕 Últimas versiones actualizadas  
-- 🛠️ Soporte y ayuda  
+⚠️ Aviso
+Usa todo bajo tu responsabilidad
+Para máxima seguridad, usa los links oficiales del repositorio del creador
+No nos hacemos responsables de mal uso
+🕶️ Extra
 
-👉 [Entra al Discord](https://discord.gg/b4bEeWZ4zA)
-
-## ⚠️ Aviso
-
-- Usa todo bajo tu responsabilidad  
-- Para máxima seguridad, utiliza los links oficiales del Discord  
-- No nos hacemos responsables de mal uso  
-
-## 🕶️ Extra
-
-¿Tienes más Mod Menus o scripts?  
+¿Tienes más Mod Menus o scripts?
 Compártelos en el Discord y haz crecer la colección 🔥
