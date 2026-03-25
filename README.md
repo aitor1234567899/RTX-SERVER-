@@ -25,10 +25,10 @@ En Discord encontrarás siempre ACTALIZADOS :
 * ✅ Descargas originales y seguras
 * 🆕 Últimas versiones actualizadas
 * 🛠️ Soporte y ayuda
-
+---
 👉 [Entra al Discord](https://discord.gg/b4bEeWZ4zA)
 
-
+---
 👉[PUEDE EN TRAR A OTRO REPOSITORIO NUENTRO ](https://github.com/aitor1234567899/RTX-inyector/tree/main)
 
 ---
