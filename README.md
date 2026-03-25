@@ -29,7 +29,7 @@ En Discord encontrarás siempre ACTALIZADOS :
 👉 [Entra al Discord](https://discord.gg/b4bEeWZ4zA)
 
 ---
-👉[PUEDE EN TRAR A OTRO REPOSITORIO NUENTRO ](https://github.com/aitor1234567899/RTX-inyector/tree/main)
+👉[PUEDE ENTRAR A OTRO REPOSITORIO NUESNTRO ](https://github.com/aitor1234567899/RTX-inyector/tree/main)
 
 ---
 
