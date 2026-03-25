@@ -54,4 +54,3 @@ Pulsa “Abrir ubicación del archivo”
 El progreso con FSL solo es local.
 Si quitas el archivo, volverás a tu progreso normal de Rockstar.
 
-👉 [LIK OFICIAL ]( https://github.com/isamo09/fls-online-saves/tree/main/FSL )
