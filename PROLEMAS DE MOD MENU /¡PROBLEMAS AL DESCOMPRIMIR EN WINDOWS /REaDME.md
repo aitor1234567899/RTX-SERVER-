@@ -7,4 +7,7 @@
 Solo hacé clic derecho, seleccioná "Mostrar más opciones" y ahí vas a ver la opción para extraer el archivo. 
 
 👇 Video de cómo solucionarlo paso a paso: 
+
+
+
 [![image.webp](https://i.postimg.cc/Qt121QQp/image.webp)](https://postimg.cc/2bj9fBX6)
