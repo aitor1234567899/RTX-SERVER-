@@ -4,7 +4,7 @@
 
 # 💀 BIENVENIDO AL REPOSITORIO RTX 💻
 
-Este es tu lugar para ⚡ Mod Menus y Scripts ⚡ de GTA V, listos para usar.
+# Este es tu lugar para ⚡ Mod Menus y Scripts ⚡ de GTA V, listos para usar.
 Aquí encuentras los archivos directos, organizados y accesibles.
 ---
 ## 🧩 Contenido
