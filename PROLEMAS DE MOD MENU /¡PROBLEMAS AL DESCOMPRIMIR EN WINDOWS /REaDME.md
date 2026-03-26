@@ -1,6 +1,7 @@
 ⚠️ ¡PROBLEMAS AL DESCOMPRIMIR EN WINDOWS 11!
-
-1️⃣ Descargá e instalá WinRAR desde Google.##
+--
+1️⃣ Descargá e instalá WinRAR desde Google.
+--
 2️⃣ Una vez instalado, hacé clic derecho sobre el archivo y elegí "Extraer aquí" o "Extraer en...".
 
 💡 Si ya tenés WinRAR:
