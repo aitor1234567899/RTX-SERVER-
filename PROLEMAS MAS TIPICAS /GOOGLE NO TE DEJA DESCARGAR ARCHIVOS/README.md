@@ -13,4 +13,4 @@ Inyectan archivos
 O hacen cambios que los antivirus consideran sospechosos
 
 👇 Video de cómo solucionarlo paso a paso: 
-[![2026-03-25-20-32-11.gif]()
+[![202603260906.gif](https://i.postimg.cc/02fJZ7Wg/202603260906.gif)](https://postimg.cc/1f8t3V1M)
