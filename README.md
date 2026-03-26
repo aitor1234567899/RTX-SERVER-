@@ -13,7 +13,8 @@ Aquí encuentras los archivos directos, organizados y accesibles.
 * ⚙️ Scripts funcionales
 * 🚀 Archivos preparados
 * 🔓 Acceso rápido y seguro
-* 🚗 COCHES PARA YIM  MENU 
+* 🚗 COCHES PARA YIM  MENU
+* 👕 OUTIFITS 
 ---
 ## 💬 Discord = Fuente Oficial
 
