@@ -34,3 +34,6 @@ En Discord encontrarás siempre ACTALIZADOS :
 
 ---
 
+👉 [DUCUMENTACION PRUFUNDA] (https://www.mintlify.com/aitor1234567899/RTX-SERVER-)
+---
+
