@@ -24,6 +24,8 @@ Samurais-Scripts.zip
 ---
 > [!IMPORTANT]
 > Esto es importante, no lo ignores
+
+
 ⚠️ Importante:
 
 No lo ejecutes desde el ZIP
