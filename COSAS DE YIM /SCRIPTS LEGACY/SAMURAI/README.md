@@ -2,9 +2,9 @@
 
 ## 📦 ¿Qué es esto?
 
-Este menú es una herramienta independiente creada por Samurai que añade funciones y utilidades con interfaz visual propia.
+Este menú es una herramienta creada por Samurai con interfaz visual propia que añade funciones y utilidades dentro del entorno de YimMenu Legacy.
 
-No depende de YimMenu Legacy ni de su sistema de scripts.
+👉 Requiere YimMenu Legacy para poder ejecutarse.
 
 ---
 
@@ -14,12 +14,15 @@ No depende de YimMenu Legacy ni de su sistema de scripts.
 
 Descarga el archivo:
 
+- `Samurais-Scripts.zip`
+
+2. Descomprimir
+
+Extrae TODO el contenido del archivo ZIP:
+
 Samurais-Scripts.zip
 
+⚠️ Importante:
 
-
-## 3. Mover a la carpeta de scripts
-
-Coloca la carpeta del script (con TODO su contenido dentro) en la siguiente ruta:
-
-%AppData%\YimMenu\scripts
+No lo ejecutes desde el ZIP
+Debes extraer todos los archivos
