@@ -22,7 +22,8 @@ Extrae TODO el contenido del archivo ZIP:
 
 Samurais-Scripts.zip
 ---
-[!IMPORTANT]
+> [!IMPORTANT]
+> Esto es importante, no lo ignores
 ⚠️ Importante:
 
 No lo ejecutes desde el ZIP
