@@ -1,10 +1,11 @@
 # 🧠 Samurai Script Menu
+> [!NOTE]
+> Aquí tienes una nota especial
+>## 📦 ¿Qué es esto?
 
-## 📦 ¿Qué es esto?
+>Este menú es una herramienta creada por Samurai con interfaz visual propia que añade funciones y utilidades dentro del entorno de YimMenu Legacy.
 
-Este menú es una herramienta creada por Samurai con interfaz visual propia que añade funciones y utilidades dentro del entorno de YimMenu Legacy.
-
-👉 Requiere YimMenu Legacy para poder ejecutarse.
+>👉 Requiere YimMenu Legacy para poder ejecutarse.
 
 ---
 
