@@ -2,15 +2,20 @@
 
 ## 📦 ¿Qué es esto?
 
-Este script es un menú independiente que añade funciones y herramientas propias de Samurai.
+Este menú es una herramienta independiente creada por Samurai que añade funciones y utilidades con interfaz visual propia.
 
-No depende directamente del sistema de scripts de YimMenu Legacy, sino que funciona como un menú aparte con interfaz visual.
+No depende de YimMenu Legacy ni de su sistema de scripts.
 
 ---
 
 ## 🚀 Instalación
 
 ### 1. Descargar el repositorio
+
+Descarga el archivo:
+
+Samurais-Scripts.zip
+
 
 
 ## 3. Mover a la carpeta de scripts
