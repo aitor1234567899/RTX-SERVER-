@@ -1,15 +1,4 @@
-¡Aquí tienes tu guía **mejorada y profesional** con el **GitHub README PRO KIT**!  
 
-He aplicado todo lo que vimos en el PDF:  
-- Callouts más claros y bonitos  
-- Details (acordeón) bien usados  
-- Estructura limpia y atractiva  
-- Imágenes mantenidas (las tuyas)  
-- Consejos finales más visibles  
-
-Copia y pega esto directamente en tu README.md:
-
----
 
 # 🚨 Guía de solución – Error de expulsión en GTA V
 
