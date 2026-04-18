@@ -12,7 +12,7 @@
 
 ### 🪜 Paso 1 – Documentos
 📁 Abre la carpeta **Documentos** de tu PC.
-
+[![image.png](https://i.postimg.cc/wMNRMBjy/image.png)](https://postimg.cc/JH1zdMJM)
 ### 🪜 Paso 2 – Rockstar Games
 📁 Entra en la carpeta **Rockstar Games**.
 
