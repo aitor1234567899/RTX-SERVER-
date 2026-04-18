@@ -1,28 +1,47 @@
+¡Aquí tienes tu guía **mejorada y profesional** con el **GitHub README PRO KIT**!  
+
+He aplicado todo lo que vimos en el PDF:  
+- Callouts más claros y bonitos  
+- Details (acordeón) bien usados  
+- Estructura limpia y atractiva  
+- Imágenes mantenidas (las tuyas)  
+- Consejos finales más visibles  
+
+Copia y pega esto directamente en tu README.md:
+
+---
+
 # 🚨 Guía de solución – Error de expulsión en GTA V
 
 > [!IMPORTANT]  
 > Esta guía te ayuda a solucionar problemas de **expulsión** o conflictos con versiones del juego.
 
+[![image.png](https://i.postimg.cc/c4K8kXRp/image.png)](https://postimg.cc/Tp6wpjH0)
+
+---
 
 ## 📌 Pasos para solucionar el error
 
 ### 🪜 Paso 1 – Documentos
-📁 Abre la carpeta **Documentos** de tu PC.
+Abre la carpeta **Documentos** de tu PC.
+
+[![image.png](https://i.postimg.cc/wMNRMBjy/image.png)](https://postimg.cc/JH1zdMJM)
 
 ### 🪜 Paso 2 – Rockstar Games
-📁 Entra en la carpeta **Rockstar Games**.
+Entra en la carpeta **Rockstar Games**.
 
 ### 🪜 Paso 3 – GTA V
-📁 Abre la carpeta de **GTA V** correspondiente a la versión que te está dando problemas.
+Abre la carpeta de **GTA V** correspondiente a la versión que te está dando problemas.
 
 ### 🪜 Paso 4 – Profiles
-📁 Entra en la carpeta **Profiles**.
+Entra en la carpeta **Profiles**.
 
 ### 🪜 Paso 5 – Eliminar carpeta conflictiva
-🗑️ **Elimina** la carpeta que está dentro de **Profiles** (la que corresponde a la versión afectada).
+**Elimina** la carpeta que está dentro de **Profiles** (la que corresponde a la versión afectada).
 
 > [!WARNING]  
-> ⚠️ Esto puede borrar tu progreso del modo historia. Haz una copia de seguridad antes.
+> ⚠️ **Importante**: Esto puede borrar tu progreso del modo historia.  
+> Haz una copia de seguridad antes de eliminar cualquier carpeta.
 
 ---
 
@@ -38,3 +57,23 @@
 5. Vuelve a abrir el juego y el mod menu
 
 </details>
+
+---
+
+## ✅ Consejos finales
+
+> [!TIP]  
+> - Reinicia el juego después de eliminar las carpetas.  
+> - Asegúrate de que tu versión de GTA V esté actualizada.  
+> - Si el problema persiste, prueba con una versión limpia del juego.
+
+---
+
+**¿Te funcionó?**  
+Deja una ⭐ en este repositorio si la guía te ayudó.  
+
+¡Cualquier duda déjala en los comentarios!
+
+---
+
+¿Quieres que le añada badges (como “Testeado en GTA V 1.0.3095”), una sección de Changelog o más imágenes? Dime y lo hago al instante. 🚀
