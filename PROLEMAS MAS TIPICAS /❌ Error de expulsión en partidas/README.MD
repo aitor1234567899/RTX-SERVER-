@@ -63,4 +63,4 @@ Deja una ⭐ en este repositorio si la guía te ayudó.
 
 ---
 
-¿Quieres que le añada badges (como “Testeado en GTA V 1.0.3095”), una sección de Changelog o más imágenes? Dime y lo hago al instante. 🚀
+
