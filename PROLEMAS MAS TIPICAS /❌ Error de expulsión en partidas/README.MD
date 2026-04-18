@@ -58,5 +58,4 @@ Deja una ⭐ en este repositorio si la guía te ayudó.
 
 ---
 
-**GitHub README PRO KIT** aplicado ✅  
-(Callouts + Details + Emojis + Estructura limpia)
+
