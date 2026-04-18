@@ -41,10 +41,3 @@
 5. Vuelve a abrir el juego y el mod menu
 
 </details>
-
----
-
-**Guarda los cambios** (Commit) en GitHub y actualiza la página.  
-La foto ya debería verse perfectamente.
-
-¿Quieres que añada más fotos en los otros pasos o que deje el README aún más bonito? Solo dime. 🚀
