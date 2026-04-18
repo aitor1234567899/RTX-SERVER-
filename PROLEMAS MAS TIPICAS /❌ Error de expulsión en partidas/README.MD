@@ -3,8 +3,7 @@
 > [!IMPORTANT]  
 > Esta guía te ayuda a solucionar problemas de **expulsión** o conflictos con versiones del juego.
 
-[![image.png](https://i.postimg.cc/c4K8kXRp/image.png)](https://postimg.cc/Tp6wpjH0)
-
+![Paso 1 - Carpeta Documentos](https://i.postimg.cc/wMNRMBjy/image.png)
 
 ---
 
@@ -12,7 +11,7 @@
 
 ### 🪜 Paso 1 – Documentos
 📁 Abre la carpeta **Documentos** de tu PC.
-[![image.png](https://i.postimg.cc/wMNRMBjy/image.png)](https://postimg.cc/JH1zdMJM)
+
 ### 🪜 Paso 2 – Rockstar Games
 📁 Entra en la carpeta **Rockstar Games**.
 
@@ -26,8 +25,7 @@
 🗑️ **Elimina** la carpeta que está dentro de **Profiles** (la que corresponde a la versión afectada).
 
 > [!WARNING]  
-> ⚠️ **Importante**: Esto puede borrar tu progreso del modo historia.  
-> Haz una copia de seguridad antes de eliminar cualquier carpeta.
+> ⚠️ Esto puede borrar tu progreso del modo historia. Haz una copia de seguridad antes.
 
 ---
 
@@ -36,29 +34,17 @@
 <details>
 <summary>🔄 Haz clic aquí para ver la solución alternativa con AppData</summary>
 
-1. Pulsa **Windows + R**
-2. Escribe: `%appdata%` y presiona Enter
-3. Busca la carpeta **TessioScript**
-4. Elimínala completamente
+1. Pulsa **Windows + R**  
+2. Escribe: `%appdata%` y presiona Enter  
+3. Busca la carpeta **TessioScript**  
+4. Elimínala completamente  
 5. Vuelve a abrir el juego y el mod menu
 
 </details>
 
 ---
 
-## ✅ Consejos finales
+**Guarda los cambios** (Commit) en GitHub y actualiza la página.  
+La foto ya debería verse perfectamente.
 
-> [!TIP]  
-> - Reinicia el juego después de eliminar las carpetas.  
-> - Asegúrate de que tu versión de GTA V esté actualizada.  
-> - Si el problema persiste, prueba con una versión limpia del juego.
-
----
-
-**¿Te funcionó?**  
-Deja una ⭐ en este repositorio si la guía te ayudó.  
-¡Cualquier duda déjala en los comentarios!
-
----
-
-
+¿Quieres que añada más fotos en los otros pasos o que deje el README aún más bonito? Solo dime. 🚀
