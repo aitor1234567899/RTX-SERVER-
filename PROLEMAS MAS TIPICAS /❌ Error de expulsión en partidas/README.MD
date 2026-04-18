@@ -47,8 +47,7 @@ Entra en la carpeta **Profiles**.
 
 ## 💡 Otra solución (alternativa rápida)
 
-<details>
-<summary>🔄 Haz clic aquí para ver la solución alternativa con AppData</summary>
+🔄 Haz clic aquí para ver la solución alternativa con AppData</summary>
 
 1. Pulsa **Windows + R**  
 2. Escribe: `%appdata%` y presiona Enter  
