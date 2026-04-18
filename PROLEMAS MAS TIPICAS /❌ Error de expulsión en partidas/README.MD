@@ -3,8 +3,7 @@
 > [!IMPORTANT]  
 > Esta guía te ayuda a solucionar problemas de **expulsión** o conflictos con versiones del juego.
 
-![Paso 1 - Carpeta Documentos](https://i.postimg.cc/wMNRMBjy/image.png)
-
+[![image.png](https://i.postimg.cc/wMNRMBjy/image.png)](https://postimg.cc/JH1zdMJM)
 ---
 
 ## 📌 Pasos para solucionar el error
