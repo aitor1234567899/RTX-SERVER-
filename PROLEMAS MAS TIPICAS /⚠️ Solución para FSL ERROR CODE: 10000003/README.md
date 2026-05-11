@@ -19,4 +19,6 @@
 
 ## 🛠️ Estado
 De momento es la única solución encontrada.
+
+---
 [![Captura-de-pantalla-2026-05-09-235431.png](https://i.postimg.cc/9fNNvgNz/Captura-de-pantalla-2026-05-09-235431.png)](https://postimg.cc/Tyg9b0xX)
