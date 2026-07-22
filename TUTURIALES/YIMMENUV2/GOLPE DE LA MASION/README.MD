@@ -1,2 +1,11 @@
 
-https://cdn.discordapp.com/attachments/1504873155129512066/1529536721749016747/2026-07-22_19-05-20.mp4?ex=6a624b93&is=6a60fa13&hm=06bcf8e64138ff3c4cf39af10f416cb52848e785a64cac6f48cf9eb676b164ec&
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   TUTURIALES/YIMMENUV2/GOLPE DE LA MASION/2026-07-22 19-05-20.mp4
+#
